@@ -1,0 +1,53 @@
+{
+  "en": {
+    "home": "Home",
+    "home1": "Translate one text into multiple languages",
+    "about": "About",
+    "contactUs": "Contact Us",
+    "welcome": "When you need to communicate a text, article, book, show, paper, or any other form of text to more than just one language, use this useful tool to make it easier on you. Choose to write one text into high paying languages with the quick select, or for the most supported languages. After you translate the text into multiple languages, you will be able to download it in JSON file format or as a CSV file. You can also quickly copy any of the translated texts with the copy button for convenience. This tool will quickly translate your text into all the different languages you need to communicate to multiple groups of people who speak different languages.",
+    "aboutContent": "Most translation tools simply translate the text into language which is not very convenient when you are trying to translate text into more than one language. In addition to translating into multiple languages to save you time, you can export into a JSON file type of CSV file type to use in spreadsheets.",
+    "contactContent": "You can reach us at contact@example.com.",
+    "heading": "Multi language Translator",
+    "detail": "We are trying to give you the best  possible translation",
+    "feedback": "We give attention to genuine feedback.",
+    "copyright": "All right received @multilanguagetranslator",
+    "social": "Follow Us",
+    "button": "Click",
+    "name": "Name",
+    "email": "Email"
+  },
+  "hi": {
+    "home": "होम",
+    "home1": "एक पाठ का अनेक भाषाओं में अनुवाद करें",
+    "about": "बारे में",
+    "contactUs": "संपर्क करें",
+    "welcome": "जब आपको किसी पाठ, लेख, पुस्तक, शो, पेपर, या पाठ के किसी अन्य रूप को एक से अधिक भाषाओं में संप्रेषित करने की आवश्यकता हो, तो इसे आसान बनाने के लिए इस उपयोगी टूल का उपयोग करें। त्वरित चयन के साथ, या सर्वाधिक समर्थित भाषाओं के लिए उच्च भुगतान वाली भाषाओं में एक पाठ लिखना चुनें। पाठ का कई भाषाओं में अनुवाद करने के बाद, आप इसे JSON फ़ाइल स्वरूप या CSV फ़ाइल के रूप में डाउनलोड कर पाएंगे। सुविधा के लिए आप कॉपी बटन से किसी भी अनुवादित पाठ को तुरंत कॉपी कर सकते हैं। यह टूल आपके टेक्स्ट को तुरंत उन सभी अलग-अलग भाषाओं में अनुवादित करेगा जिनकी आपको विभिन्न भाषाएं बोलने वाले लोगों के कई समूहों से संवाद करने के लिए आवश्यकता है।",
+    "aboutContent": "अधिकांश अनुवाद उपकरण केवल पाठ को भाषा में अनुवादित करते हैं जो तब बहुत सुविधाजनक नहीं होता जब आप पाठ को एक से अधिक भाषाओं में अनुवाद करने का प्रयास कर रहे हों। अपना समय बचाने के लिए कई भाषाओं में अनुवाद करने के अलावा, आप स्प्रेडशीट में उपयोग करने के लिए JSON फ़ाइल प्रकार की CSV फ़ाइल प्रकार में निर्यात कर सकते हैं।",
+    "contactContent": "आप हमें contact@example.com पर संपर्क कर सकते हैं।",
+    "heading": "बहु भाषा अनुवादक",
+    "detail": "हम आपको सर्वोत्तम संभव अनुवाद देने का प्रयास कर रहे हैं",
+    "feedback": "हम वास्तविक प्रतिक्रिया पर ध्यान देते हैं।",
+    "copyright": "ठीक है @multilangagetranslator प्राप्त हुआ |",
+    "social": "हमें फॉलो करें",
+    "button": "क्लिक करें",
+    "name": "नाम",
+    "email": "ईमेल"
+  },
+  "mr": {
+    "home": "होम",
+    "home1": "एका मजकुराचे अनेक भाषांमध्ये भाषांतर करा",
+    "about": "आमच्याबद्दल",
+    "contactUs": "संपर्क साधा",
+    "welcome": "जेव्हा तुम्हाला एखादा मजकूर, लेख, पुस्तक, शो, पेपर किंवा इतर कोणत्याही स्वरूपाचा मजकूर एकाहून अधिक भाषेत संप्रेषण करण्याची आवश्यकता असेल तेव्हा ते तुमच्यासाठी सोपे करण्यासाठी हे उपयुक्त साधन वापरा. एक मजकूर उच्च पैसे देणाऱ्या भाषांमध्ये द्रुत निवडीसह किंवा सर्वात समर्थित भाषांसाठी लिहा. तुम्ही मजकूराचा एकाधिक भाषांमध्ये अनुवाद केल्यानंतर, तुम्ही तो JSON फाइल स्वरूपात किंवा CSV फाइल म्हणून डाउनलोड करू शकाल. तुम्ही सोयीसाठी कॉपी बटणासह भाषांतरित मजकूराची त्वरीत कॉपी देखील करू शकता. हे साधन तुमचा मजकूर त्वरीत सर्व भिन्न भाषांमध्ये अनुवादित करेल जे तुम्हाला वेगवेगळ्या भाषा बोलणाऱ्या लोकांच्या अनेक गटांशी संवाद साधण्यासाठी आवश्यक आहेत.",
+    "aboutContent": "बर्‍याच भाषांतर साधने फक्त मजकूराचे भाषेत भाषांतर करतात जे तुम्ही एकापेक्षा जास्त भाषांमध्ये मजकूर अनुवादित करण्याचा प्रयत्न करत असताना फार सोयीस्कर नसते. तुमचा वेळ वाचवण्यासाठी एकाधिक भाषांमध्ये भाषांतर करण्याव्यतिरिक्त, तुम्ही स्प्रेडशीटमध्ये वापरण्यासाठी JSON फाइल प्रकारात CSV फाइल प्रकारात निर्यात करू शकता.।",
+    "contactContent": "आपण contact@example.com वर संपर्क साधू शकता.",
+    "heading": "एकाधिक भाषा अनुवादक",
+    "detail": "आम्ही तुम्हाला सर्वोत्तम शक्य भाषांतर देण्याचा प्रयत्न करत आहोत",
+    "feedback": "आम्ही खऱ्या अभिप्रायाकडे लक्ष देतो.",
+    "copyright": "ठीक आहे @multilanguagetranslator प्राप्त झाले",
+    "social": "आमच्या मागे या",
+    "button": "क्लिक करा",
+    "name": "नाव",
+    "email": "ईमेल"
+  }
+}
